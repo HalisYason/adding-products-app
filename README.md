@@ -9,3 +9,6 @@
 
 ## 
 PyQt5 ile tasarlanmıştır ve veritabanı entegrasyonu vardır.
+
+##
+
