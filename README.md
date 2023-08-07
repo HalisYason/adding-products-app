@@ -1,14 +1,14 @@
 # adding-products-app
 
 
-## özellikler
+## features
 
-- ürün bilgileri ekleme
-- silme
-- listeleme
+- adding product information
+- erasure
+- listing
 
 ## 
-PyQt5 ile tasarlanmıştır ve veritabanı entegrasyonu vardır.
+It is designed with PyQt5 and has database integration.
 
 ##
 
